@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aubjr.github.io/wTe/sitemap.wTe.gz
